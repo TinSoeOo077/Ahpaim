@@ -14,9 +14,9 @@
 
 {
 
-         "name": "TRUE-DTAC-TH-01",
+         "name": "TH-VIP-01-TRUE",
 
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-02.ovpn"
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/Ahpaim/main/VIP-01.ovpn"
 
       }
 
@@ -24,9 +24,9 @@
 
 {
 
-         "name": "TRUE-DTAC-SG-01",
+         "name": "SG-VIP-01-DTAC",
 
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/TinSoeOo077/Ahpaim/main/VIP-02.ovpn"
 
       }
 
